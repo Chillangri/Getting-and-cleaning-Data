@@ -9,13 +9,13 @@ Course Project for Getting and Cleaning Data
  5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 ## Script procedures:
-Step 01. File Download and Save It. After downloading this .zip file, extracted it manually.
-Step 02. Load realated files and make datasets
-Step 03. Q.01: Merges the trating and the test sets to create one dataset.
-Step 04. Q.02: Extracts only the measurements on the mean and standard deviation for each measurement. 
-Step 05. Q.03: Uses descriptive activity names to name the activities in the data set
-Step 06. Q.04: Appropriately labels the data set with descriptive variable names. 
-Step 07. Q.05: From the data set in step 4 (Q.05), creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+- Step 01. File Download and Save It. After downloading this .zip file, extracted it manually.
+- Step 02. Load realated files and make datasets
+- Step 03. Q.01: Merges the trating and the test sets to create one dataset.
+- Step 04. Q.02: Extracts only the measurements on the mean and standard deviation for each measurement. 
+- Step 05. Q.03: Uses descriptive activity names to name the activities in the data set
+- Step 06. Q.04: Appropriately labels the data set with descriptive variable names. 
+- Step 07. Q.05: From the data set in step 4 (Q.05), creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 ## Code book
 ### Activity
